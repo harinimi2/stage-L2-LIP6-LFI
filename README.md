@@ -3,4 +3,4 @@ Ce travail a été réalisé lors de mon stage de recherche  juin/juillet 2026, 
 Pour cela, le travail à réaliser comprendra :
 - une étude bibliographique sur les mesures d’ensembles flous définis par intervalles ;
 - la conception d’un modèle de représentation objet pour l’implémentation de mesures d’entropie existantes (et futures) ;
-Le code source est disponible sur le GitLab de l'équipe : [Voir le dépôt](https://gitlab.lip6.fr/lfi/ivfs-javatools)
+Mon package Java est disponible sur le GitLab de l'équipe : [Voir le dépôt](https://gitlab.lip6.fr/lfi/ivfs-javatools)
