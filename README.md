@@ -1,2 +1,6 @@
 # stage-L2-LIP6-LFI
-Ce travail a été réalisé lors de mon stage de recherche  juin/juillet 2026, au sein de l’équipe LFI, au LIP6 à la Sorbonne.
+Ce travail a été réalisé lors de mon stage de recherche  juin/juillet 2026, au sein de l’équipe LFI, au LIP6 à la Sorbonne. L’objectif de ce stage est de concevoir et d’implémenter une librairie en Java pour pouvoir utiliser des mesures d’entropies d’ensembles flous définis par intervalles.
+Pour cela, le travail à réaliser comprendra :
+- une étude bibliographique sur les mesures d’ensembles flous définis par intervalles ;
+- la conception d’un modèle de représentation objet pour l’implémentation de mesures d’entropie existantes (et futures) ;
+Le code source est disponible sur le GitHub de l'équipe : [Voir le dépôt](https://gitlab.lip6.fr/lfi/ivfs-javatools)
